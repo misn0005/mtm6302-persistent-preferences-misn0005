@@ -1,0 +1,48 @@
+body {
+	font-family: sans-serif;
+	/* margin-left: 100px;
+    margin-right: 100px; */
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+    text-align: center;
+	color: white;
+	padding: 1em;
+}
+
+header h1 {
+	margin: 0;
+}
+
+main {
+	padding: 1em;
+}
+
+
+#preferences {
+	margin-top: 2em;
+	border: 1px solid #ccc;
+	padding: 1em;
+}
+
+#preferences h2 {
+	margin-top: 0;
+}
+
+	
+.light {
+	background-color: white;
+	color: black;
+}
+
+.dark {
+	background-color: black;
+	color: white;
+}
+
+.grey {
+	background-color: #ccc;
+	color: black;
+}
